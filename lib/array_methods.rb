@@ -17,7 +17,7 @@ end
 
 fun = [0, 4, 3, 5, 4, 43, 84, 0, 3, 49, 2222, 55,4]
 
-fin_max_valeu(fun)
+find_max_valeu(fun)
 
 def find_min_value(array)
   x = array[0]
